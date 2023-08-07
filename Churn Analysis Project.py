@@ -2,6 +2,21 @@
 Original file is located at
     https://colab.research.google.com/drive/1F3cmkD2xN-MqhHlukkL2F-D6XY-snRF0
 
+
+CASE:    
+A Telecommunications company has approached our
+team of data scientists with a problem of customer
+churn in their business. The business owner has
+provided us with some data to work on. Our task is to
+provide recommendations to the company to
+effectively solve the problem of customer churn. To
+achieve this, we will be using PySpark to develop a
+machine learning model based on a decision tree
+algorithm that will identify the factors that contribute
+to customer churn. We will then provide actionable
+insights to the company to reduce customer chur
+and increase customer retention.
+
 ### **Task 1 - Loading our data**
 
 Installing the pyspark using pip
